@@ -1,0 +1,37 @@
+Capitals
+Which is the capital of Bulgaria?,Sofia
+Which is the capital of Netherlands?,Amsterdam
+Which is the capital of Greece?,Athens
+Which is the capital of Serbia?,Belgrade
+Which is the capital of Germany?,Berlin
+Which is the capital of Switzerland?,Bern
+Which is the capital of Slovakia?,Bratislava
+Which is the capital of Belgium?,Brussels
+Which is the capital of Romania?,Bucharest
+Which is the capital of Hungary?,Budapest
+Which is the capital of Denmark?,Copenhagen
+Which is the capital of Ireland?,Dublin
+Which is the capital of Finland?,Helsinki
+Which is the capital of Ukraine?,Kiev
+Which is the capital of Portugal?,Lisbon
+Which is the capital of Slovenia?,Ljubljana
+Which is the capital of United Kingdom?,London
+Which is the capital of Spain?,Madrid
+Which is the capital of Belarus?,Minsk
+Which is the capital of Monaco?,Monaco
+Which is the capital of Russia?,Moscow
+Which is the capital of Cyprus?,Nicosia
+Which is the capital of Norway?,Oslo
+Which is the capital of France?,Paris
+Which is the capital of Montenegro?,Podgorica
+Which is the capital of Czech Republic?,Prague
+Which is the capital of Italy?,Rome
+Which is the capital of San Marino?,San Marino
+Which is the capital of Bosnia and Herzegovina?,Sarajevo
+Which is the capital of Macedonia?,Skopje
+Which is the capital of Sweden?,Stockholm
+Which is the capital of Albania?,Tirana
+Which is the capital of Austria?,Vienna
+Which is the capital of Poland?,Warsaw
+Which is the capital of Croatia?,Zagreb
+Which is the capital of Bahrain?,Manama
